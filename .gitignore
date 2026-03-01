@@ -1,1 +1,7 @@
+# Git Ignore
+Debug/
+Release/
+x64/
+x86/
+*.aps
 *.user
