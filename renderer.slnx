@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="renderer.vcxproj" />
+  <Folder Name="/ソリューション項目/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="renderer.vcxproj" Id="73357866-6dd8-4f2d-97e1-e7e75a9c21d7" />
 </Solution>
