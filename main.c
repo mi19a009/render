@@ -1,4 +1,4 @@
-﻿/* Copyright 2026 Taichi Murakami. */
+﻿/* Copyright (C) 2026 Taichi Murakami. */
 #include "stdafx.h"
 #include "renderer.h"
 #include "resource.h"
