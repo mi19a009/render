@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/ソリューション項目/">
+    <File Path=".gitattributes" />
     <File Path=".gitignore" />
   </Folder>
   <Project Path="renderer.vcxproj" Id="73357866-6dd8-4f2d-97e1-e7e75a9c21d7" />

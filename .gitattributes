@@ -1,0 +1,8 @@
+# Git Attributes
+*.c             text
+*.filters       text
+*.h             text
+*.manifest      text
+*.rc            text eol=crlf working-tree-encoding=utf-16le-bom
+*.slnx          text
+*.vcxproj       text
